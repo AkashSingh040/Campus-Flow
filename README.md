@@ -77,12 +77,14 @@ Both are displayed together in a simple and searchable interface.
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
+---
 
 ### Frontend
 
 ```bash
 cd frontend
-npm install(first time only)
+npm install
 npm start
 
 
