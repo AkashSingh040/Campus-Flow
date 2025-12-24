@@ -1,0 +1,22 @@
+# --------------------
+# Node (Frontend)
+# --------------------
+frontend/node_modules/
+
+# --------------------
+# Python (Backend)
+# --------------------
+backend/__pycache__/
+backend/venv/
+*.pyc
+
+# --------------------
+# Build artifacts
+# --------------------
+build/
+dist/
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
